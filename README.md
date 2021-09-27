@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mathiesen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Mathiesen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&custom_title=Dusty707's+GitHub+Stats"/>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&count_private&langs_count=5&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristofferRTS&count_private&langs_count=5&theme=tokyonight&layout=compact)]()
 
 
 <!--

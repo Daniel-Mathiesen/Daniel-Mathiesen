@@ -22,12 +22,17 @@
 - I’m currently working on a <a href="https://aldi-clicker.netlify.app/"/>fun project with a friend</a>.
 - I’m currently learning a bunch of stuff lol.
 - How to reach me: <a href="https://www.linkedin.com/in/daniel-mathiesen-aab9711b6/"/>LinkedIn</a>
-  
+
+---
+
+### GitHub Stats
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Mathiesen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&custom_title=Dusty707's+GitHub+Stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&count_private&langs_count=8&theme=tokyonight&layout=compact"/>
 
-
+---
 
 
 <!--

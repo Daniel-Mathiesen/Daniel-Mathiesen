@@ -1,5 +1,5 @@
 
-### Hello and welocme to my very own GitHub page 👋😄
+### Hello and welcome to my very own GitHub page 👋😄
 
 💻✨My name is Daniel Mathiesen and I also go by the name Dusty707. I am a web developer student from Haslev, Denmark and I do all sorts of fun projects✨💻
 

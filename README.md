@@ -2,7 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mathiesen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&langs_count=8&theme=tokyonight&layout=compact)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&count_private&langs_count=5&theme=tokyonight&layout=compact)]()
+
 
 <!--
 **Daniel-Mathiesen/Daniel-Mathiesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

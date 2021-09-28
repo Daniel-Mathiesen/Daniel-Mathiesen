@@ -27,10 +27,11 @@
 
 ### GitHub Stats
 
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-Mathiesen&count_private=true&show_icons=true&theme=tokyonight&include_all_commits&custom_title=Dusty707's+GitHub+Stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&count_private&langs_count=8&theme=tokyonight&layout=compact"/>
+
+<img alt="VisitorCount" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Daniel-Mathiesen&style=for-the-badge&theme=tokyonight"/>
 
 ---
 

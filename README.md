@@ -20,7 +20,7 @@
 ---
 
 - I’m currently working on a <a href="https://aldi-clicker.netlify.app/"/>fun project with a friend</a>.
-- I’m currently learning a bunch of stuff lol.
+- I’m currently learning scss.
 - How to reach me: <a href="https://www.linkedin.com/in/daniel-mathiesen-aab9711b6/"/>LinkedIn</a>
 
 ---

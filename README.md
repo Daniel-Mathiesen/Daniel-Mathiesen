@@ -12,7 +12,7 @@
 <img alt="css" src="https://img.shields.io/badge/-Css-blue?logo=html5&logoColor=white&style=for-the-badge"/>
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge"/>
 <img alt="json" src="https://img.shields.io/badge/-JSON-yellowgreen?logo=JSON&logoColor=white&style=for-the-badge"/>
- <img alt="scss" src="https://img.shields.io/badge/-scss-red?logo=SASS&logoColor=white&style=for-the-badge"/>
+ <img alt="scss" src="https://img.shields.io/badge/-scss-hotpink?logo=SASS&logoColor=white&style=for-the-badge"/>
 <img alt="csharp" src="https://img.shields.io/badge/-CSharp-purple?logo=cSharp&logoColor=white&style=for-the-badge"/>
 <img alt="Lua" src="https://img.shields.io/badge/-Lua-darkblue?logo=lua&logoColor=white&style=for-the-badge"/>
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-grey?logo=unity&logoColor=white&style=for-the-badge"/>

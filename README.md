@@ -11,6 +11,7 @@
 <img alt="html" src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge"/>
 <img alt="css" src="https://img.shields.io/badge/-Css-blue?logo=html5&logoColor=white&style=for-the-badge"/>
 <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge"/>
+<img alt="React" src="https://img.shields.io/badge/-React-lightblue?logo=React&logoColor=white&style=for-the-badge"/>
 <img alt="json" src="https://img.shields.io/badge/-JSON-yellowgreen?logo=JSON&logoColor=white&style=for-the-badge"/>
  <img alt="scss" src="https://img.shields.io/badge/-scss-hotpink?logo=SASS&logoColor=white&style=for-the-badge"/>
 <img alt="csharp" src="https://img.shields.io/badge/-CSharp-purple?logo=cSharp&logoColor=white&style=for-the-badge"/>

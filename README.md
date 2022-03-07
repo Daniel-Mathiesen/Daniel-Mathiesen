@@ -8,16 +8,16 @@
 ### What do I do?
 
 <p>
-<img alt="html" src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge"/>
-<img alt="css" src="https://img.shields.io/badge/-Css-blue?logo=html5&logoColor=white&style=for-the-badge"/>
-<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge"/>
-<img alt="React" src="https://img.shields.io/badge/-React-lightblue?logo=React&logoColor=white&style=for-the-badge"/>
-<img alt="json" src="https://img.shields.io/badge/-JSON-yellowgreen?logo=JSON&logoColor=white&style=for-the-badge"/>
-<img alt="scss" src="https://img.shields.io/badge/-scss-hotpink?logo=SASS&logoColor=white&style=for-the-badge"/>
- <img alt="scss" src="https://img.shields.io/badge/-tailwindCSS-royalblue?logo=TailwindCSS&logoColor=white&style=for-the-badge"/>
-<img alt="csharp" src="https://img.shields.io/badge/-CSharp-purple?logo=cSharp&logoColor=white&style=for-the-badge"/>
-<img alt="Lua" src="https://img.shields.io/badge/-Lua-darkblue?logo=lua&logoColor=white&style=for-the-badge"/>
-<img alt="Unity" src="https://img.shields.io/badge/-Unity-grey?logo=unity&logoColor=white&style=for-the-badge"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+ <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="csharp" src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
  
 ---

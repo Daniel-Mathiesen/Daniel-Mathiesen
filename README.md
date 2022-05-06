@@ -23,7 +23,7 @@
 ---
 
 - I’m currently working on a <a href="https://christofferrts.github.io/pant_clicker/"/>fun project with a friend</a>.
-- I’m currently learning scss.
+- I’m currently working on a business page.
 - How to reach me: <a href="https://www.linkedin.com/in/daniel-mathiesen-aab9711b6/"/>LinkedIn</a>
 
 ---

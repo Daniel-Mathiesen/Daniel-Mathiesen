@@ -1,7 +1,7 @@
 
 ### Hello and welcome to my very own GitHub page 👋😄
 
-💻✨My name is Daniel Mathiesen and I also go by the name Dusty707. I am a web developer student from Haslev, Denmark and I do all sorts of fun projects✨💻
+💻✨My name is Daniel Mathiesen and I also go by the name Dusty707. I am a web developer an UI/UX designer from Copenhagen, Denmark and I do all sorts of fun projects✨💻
 
 ---
 
@@ -22,7 +22,6 @@
  
 ---
 
-- I’m currently working on a <a href="https://christofferrts.github.io/pant_clicker/"/>fun project with a friend</a>.
 - I’m currently working on a business page.
 - How to reach me: <a href="https://www.linkedin.com/in/daniel-mathiesen-aab9711b6/"/>LinkedIn</a>
 

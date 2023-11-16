@@ -33,7 +33,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mathiesen&count_private&langs_count=8&theme=tokyonight&layout=compact"/>
 
-<img alt="VisitorCount" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Daniel-Mathiesen&style=for-the-badge&theme=tokyonight"/>
+
 
 ---
 

@@ -1,7 +1,7 @@
 
-### Hello and welcome to my very own GitHub page 👋😄
+### Hello
 
-💻✨My name is Daniel and I also go by the name SJ. I am a web developer an UI/UX designer from Copenhagen, Denmark and I do all sorts of fun projects✨💻
+💻My name is Daniel and I also go by the name SJ. I am a Web developer and UI/UX designer from Copenhagen, Denmark and I do all sorts of interesting projects💻
 
 ---
 
